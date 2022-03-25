@@ -1,4 +1,4 @@
-# dceu-list
+# DCEU-list
 Este é um pequeno projeto feito em Shell Script, que lista os filmes relacionados ao DC Extended Universe.
 
 Esta aplicação requer os programas: Dialog, Lynx e Bash - o último pode ser substituído por qualquer terminal Linux, não se preocupe, o script instalará os requisitos automaticamente.
